@@ -1,1 +1,2 @@
 # Proyecto_ob
+Es un sistema de información web creado para mejorar la gestión de la empresa. Su función principal es controlar el inventario y las ventas, registrando las entradas y salidas de productos, las cantidades disponibles y las ventas realizadas. Además, permite generar reportes y alertas para facilitar la toma de decisiones. Con este sistema se busca reducir errores, evitar pérdidas y deterioro de mercancía, mantener la información organizada y mejorar la eficiencia de los procesos administrativos y operativos de la empresa.
