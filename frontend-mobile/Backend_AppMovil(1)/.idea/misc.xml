@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    misc.xml
+    -----------------------------------------------
+    Archivo de configuración a nivel de proyecto de JetBrains
+    (Android Studio/IntelliJ), guardado en .idea/.
+    Define ajustes generales del proyecto — en este caso, la
+    ubicación de la carpeta de salida de compilación.
+
+    Es un archivo generado automáticamente por el IDE; no se
+    edita a mano y no afecta cómo corre tu app Node.js
+    (Node no usa esta carpeta "out", es una configuración
+    genérica que JetBrains agrega a todo proyecto).
+-->
+<project version="4">
+  <component name="ProjectRootManager" version="2">
+    <!-- Carpeta donde el IDE colocaría los artefactos compilados,
+         relativa a la raíz del proyecto ($PROJECT_DIR$/out).
+         No tiene efecto real en un proyecto Node.js/Express como
+         este, ya que no hay paso de "compilación" que la use. -->
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

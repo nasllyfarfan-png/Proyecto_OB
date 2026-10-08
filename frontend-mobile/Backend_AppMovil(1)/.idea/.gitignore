@@ -1,0 +1,18 @@
+# Default ignored files
+# -----------------------------------------------
+# Archivo .gitignore específico de la carpeta .idea/ (configuración
+# de JetBrains / Android Studio / IntelliJ para este proyecto).
+# Excluye archivos de estado local del IDE que no deben compartirse
+# ni versionarse en Git, ya que son específicos de cada desarrollador
+# y su sesión de trabajo (no del proyecto en sí).
+
+/shelf/
+# Carpeta donde el IDE guarda los "shelved changes" — cambios
+# temporalmente apartados (similar a un git stash) hechos desde
+# la interfaz de JetBrains. Es local a cada desarrollador.
+
+/workspace.xml
+# Guarda el estado del workspace personal: pestañas abiertas,
+# posición del cursor, configuraciones de ejecución/debug locales,
+# breakpoints, etc. Cambia constantemente con el uso normal del
+# IDE y no aporta nada al resto del equipo si se versiona.

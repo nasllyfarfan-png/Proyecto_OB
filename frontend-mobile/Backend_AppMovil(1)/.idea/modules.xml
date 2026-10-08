@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    modules.xml
+    -----------------------------------------------
+    Archivo de configuración a nivel de proyecto de JetBrains
+    (Android Studio/IntelliJ), guardado en .idea/.
+    Le indica al IDE qué módulos (.iml) forman parte de este
+    proyecto — en este caso, uno solo: Backend_AppMovil.iml
+    (el archivo de módulo que documentamos antes).
+
+    Es un archivo generado automáticamente por el IDE; no se
+    edita a mano.
+-->
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <!-- Referencia al único módulo del proyecto, apuntando
+           al archivo .iml correspondiente -->
+      <module fileurl="file://$PROJECT_DIR$/.idea/Backend_AppMovil.iml" filepath="$PROJECT_DIR$/.idea/Backend_AppMovil.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Backend_AppMovil.iml
+    -----------------------------------------------
+    Archivo de configuración de módulo de JetBrains (IntelliJ IDEA/
+    WebStorm/Android Studio). Le indica al IDE cómo tratar esta
+    carpeta como un "módulo" de proyecto: qué tipo de módulo es,
+    su JDK, y qué carpetas forman parte del código fuente.
+
+    Este archivo es generado y mantenido automáticamente por el
+    IDE; normalmente no se edita a mano.
+-->
+<module type="JAVA_MODULE" version="4">
+  <!--
+      type="JAVA_MODULE": tipo genérico de módulo usado por
+      JetBrains incluso para proyectos que no son Java puro
+      (aquí es un backend Node.js) — es el tipo por defecto
+      cuando no se detecta un framework más específico.
+  -->
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+
+    <!-- No excluye ninguna carpeta de salida específica de compilación -->
+    <exclude-output />
+
+    <!-- Marca la raíz del proyecto (carpeta actual) como el
+         contenido de este módulo -->
+    <content url="file://$MODULE_DIR$" />
+
+    <!-- Usa el JDK heredado de la configuración global del proyecto,
+         en vez de definir uno específico para este módulo -->
+    <orderEntry type="inheritedJdk" />
+
+    <!-- Referencia a la carpeta de código fuente del módulo
+         (forTests="false" indica que no es una carpeta de tests) -->
+    <orderEntry type="sourceFolder" forTests="false" />
+
+  </component>
+</module>

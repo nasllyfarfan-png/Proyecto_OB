@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    deviceManager.xml
+    -----------------------------------------------
+    Archivo de configuración a nivel de proyecto de JetBrains
+    (Android Studio/IntelliJ), guardado en .idea/caches/.
+    Almacena únicamente el estado visual de la tabla "Device
+    Manager" (el panel donde se listan emuladores/dispositivos
+    Android conectados) — en este caso, cómo está ordenada esa
+    tabla, no información real de dispositivos.
+
+    Es un archivo de caché de UI, generado automáticamente por
+    el IDE; no se edita a mano y no afecta el funcionamiento
+    del proyecto.
+-->
+<project version="4">
+  <component name="DeviceTable">
+    <option name="columnSorters">
+      <list>
+        <ColumnSorterState>
+          <!-- La tabla de dispositivos está ordenada por la
+               columna "Name" -->
+          <option name="column" value="Name" />
+          <!-- En orden ascendente -->
+          <option name="order" value="ASCENDING" />
+        </ColumnSorterState>
+      </list>
+    </option>
+  </component>
+</project>
